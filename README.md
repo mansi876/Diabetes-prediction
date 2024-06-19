@@ -1,2 +1,2 @@
 # Diabetes-prediction
-Diabetes Prediction model using Logistic Regression.
+Diabetes Prediction model using Logistic Regression algorithm.
